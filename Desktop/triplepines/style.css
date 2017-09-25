@@ -1,5 +1,4 @@
 /*Elements*/
-<<<<<<< HEAD
 
 * {
   font-family: sans-serif;
@@ -72,63 +71,21 @@ header .navigation {
   background-color: #FFF;
   width: 100%;
   height: 7em;
-=======
-
-* {
-  font-family: sans-serif;
-  /*border: 1px solid red;*/
-}
-
-a {
-  color: #000;
-  text-decoration: none;
-}
-
-h1, h2, h3, p {
-  text-align: center;
-}
-
-img {
-  max-width: 100%;
-}
-
-footer {
-  display: flex;
-  text-align: center;
-}
-
-/*Navigation Header*/
-.mainHeader {
-  background-color: #FFF;
-  position: fixed;
-  width: 100%;
-  height: 8em;
->>>>>>> 6e25686feb16f25cac5c6ae0406a95be25839448
   top: 0; }
     ul {
     display: flex;
     justify-content: flex-end;
-<<<<<<< HEAD
     flex-wrap: wrap;
   }
     li {
     display: flex;
     text-transform: uppercase;
     font-size: 1.5em;
-=======
-  }
-    li {
-    display: flex;
-    flex-wrap: wrap-reverse;
-    padding: .75em;
-    font-size: 2em;
->>>>>>> 6e25686feb16f25cac5c6ae0406a95be25839448
     letter-spacing: 2px;
     list-style: none;
   }
 }
 
-<<<<<<< HEAD
 /*Home Page*/
 
 .index-container {
@@ -160,33 +117,6 @@ footer {
   align-items: center;
   flex-wrap: wrap;
 }
-=======
-/*Container*/
-
-.parent-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/*Home Page*/
-
-.home-child-container-1 {
-  max-width: 100%;
-  height: auto;
-  self-justify:center;
-}
-
-.home-child-container-2 {
-  max-width: 100%;
-  height: auto;
-}
-
-
-/*Merch*/
-
-
->>>>>>> 6e25686feb16f25cac5c6ae0406a95be25839448
 
 /*Footer*/
 
