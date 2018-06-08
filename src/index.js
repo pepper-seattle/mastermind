@@ -2,21 +2,6 @@ import React from 'react';
 import ReactDOM from "react-dom";
 import './index.css';
 
-const colors = [
-  //red
-  '#e50000', 
-  //blue
-  '#0000FF', 
-  //green
-  '#008000',
-  //orange 
-  '#ff8100', 
-  //purple
-  '#a504a5',
-  //aqua 
-  '#55e8db'
-]
-
 //peg hint colors: gold #ffd700, black #000, white, #fff
 
 function secretCreator() {
